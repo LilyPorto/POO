@@ -1,0 +1,5 @@
+@startuml
+Alice -> Bob: Mensaje de ida
+Bob -->Alice: Respuesta 
+Alice -x Bob: Fin de conexion
+@enduml
