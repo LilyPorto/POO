@@ -1,0 +1,9 @@
+@startuml
+class Persona{
+-nombre: String
+-edad: int
++hablar():void
+}
+
+class Estudiante extends Persona
+@enduml
